@@ -1,1 +1,2 @@
 test=test
+http_proxy=http://file.rdu.redhat.com:3128
